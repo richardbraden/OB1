@@ -1,5 +1,9 @@
 # Consolidation Workers
 
+![Community Contribution](https://img.shields.io/badge/OB1_COMMUNITY-Approved_Contribution-2ea44f?style=for-the-badge&logo=github)
+
+**Created by [@alanshurafa](https://github.com/alanshurafa)**
+
 > Bio synthesis and metadata normalization workers for post-import thought quality improvement via LLM reclassification.
 
 ## What It Does
